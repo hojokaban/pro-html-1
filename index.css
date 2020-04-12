@@ -10,17 +10,28 @@
 	clear: both;
 }
 
+
 .head-title{
+
 }
 .head-link{}
+
 
 main{
 	margin-left: 80px;
 }
 .a{
 }
-.a-head{}
-.a-sub{}
+.a-head{
+	margin-top: 100px;
+	font-size: 140px;
+}
+.a-sub{
+	font-size: 60px;
+}
+span{
+	color: #ff4a4a;
+}
 
 .b{
 	margin-top: 100px;
