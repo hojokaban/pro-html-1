@@ -14,26 +14,41 @@
 }
 .head-link{}
 
+main{
+	margin-left: 80px;
+}
 .a{
 }
 .a-head{}
 .a-sub{}
 
 .b{
+	margin-top: 100px;
 }
-.b-boxes{}
-.box{}
-.b-name{}
+.b-head{
+	font-size: : 28px;
+	border: 2px solid #dee7ec;
+	padding-bottom: 15px;
+}
+.b-boxes{
+	padding-top: 50px;
+}
+.box{
+	float: left;
+	margin-right: 40px;
+}
+.b-name{
+	font-size: 24px;
+}
 
 .c{
-	margin-left: 80px;
 	margin-top: 100px;
 	margin-bottom: 100px;
 }
 .c-head{
 	font-size: 28px;
 	border-bottom: 2px solid #dee7ec;
-	margin-bottom: 15px;
+	padding-bottom: 15px;
 }
 form{
 	margin-top: 50px;
