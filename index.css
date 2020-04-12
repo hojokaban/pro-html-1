@@ -16,10 +16,12 @@ header{
 	color: #fff;
 }
 .head-title{
+	float: left;
 	font-size: 36px;
 	margin: 20px 40px;
 }
 .head-link{
+	float: left;
 	font-size: 24px;
 	margin: 33px 20px;
 }
@@ -46,7 +48,7 @@ span{
 }
 .b-head{
 	font-size: : 28px;
-	border: 2px solid #dee7ec;
+	border-bottom: 2px solid #dee7ec;
 	padding-bottom: 15px;
 }
 .b-boxes{
@@ -89,7 +91,12 @@ footer{
 	padding: 40px;
 }
 .foot-title{
+	float: left;
 	font-size: 32px;
+}
+
+.foot-links{
+	float: right;
 }
 
 .foot-link{
