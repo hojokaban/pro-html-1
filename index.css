@@ -25,8 +25,28 @@
 .box{}
 .b-name{}
 
-.c{}
-.c-head{}
+.c{
+	margin-left: 80px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.c-head{
+	font-size: 28px;
+	border-bottom: 2px solid #dee7ec;
+	margin-bottom: 15px;
+}
+form{
+	margin-top: 50px;
+}
+input{
+	border: 1px solid #dee7ec;
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	font-size: 18px;
+	color: #889eab;
+
+}
 
 footer{
 	background-color: #2f5167;
