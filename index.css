@@ -10,11 +10,19 @@
 	clear: both;
 }
 
-
-.head-title{
-
+header{
+	height: 90px;
+	background-color: #26d0c9;
+	color: #fff;
 }
-.head-link{}
+.head-title{
+	font-size: 36px;
+	margin: 20px 40px;
+}
+.head-link{
+	font-size: 24px;
+	margin: 33px 20px;
+}
 
 
 main{
